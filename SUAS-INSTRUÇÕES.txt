@@ -1,4 +1,4 @@
-Criado o arquivo de log (logFile.log) com a seguinte stach trace:
+Criado o arquivo de log (logFile.log) com a seguinte stack trace:
 23/04/2013 15:34:22 - New match 11348965 has started
 23/04/2013 15:36:04 - Roman killed Nick using G3A4
 23/04/2013 15:36:14 - Roman killed Mario using M16
@@ -17,3 +17,9 @@ Criado o arquivo de log (logFile.log) com a seguinte stach trace:
 Para que fosse possível validar os itens "bônus" do desafio.
 
 A execução do projeto segue através da classe Main e o resultado do ranking é demonstrado através do log (utilizado log4j)
+
+** Bônus **
+Descobrir a arma preferida (a que mais matou) do vencedor - FOI FEITO PARA TODOS;
+Identificar a maior sequência de assassinatos efetuadas por um jogador (streak) sem morrer, dentro da partida - NÃO FOI FEITO;
+Jogadores que vencerem uma partida sem morrerem devem ganhar um "award" - ADICIONA O PRÊMIO "**Award Death**";
+Jogadores que matarem 5 vezes em 1 minuto devem ganhar um "award" - ADICIONA O PRÊMIO "**Award Murder**";
