@@ -1,0 +1,19 @@
+Criado o arquivo de log (logFile.log) com a seguinte stach trace:
+23/04/2013 15:34:22 - New match 11348965 has started
+23/04/2013 15:36:04 - Roman killed Nick using G3A4
+23/04/2013 15:36:14 - Roman killed Mario using M16
+23/04/2013 15:36:24 - Roman killed Pedro using G3A4
+23/04/2013 15:36:28 - Antonio killed Roman using M16
+23/04/2013 15:36:30 - Carlos killed Antonio using M16
+23/04/2013 15:36:31 - Carlos killed Jose using M16
+23/04/2013 15:36:31 - Fred killed Augusto using G3A4
+23/04/2013 15:36:41 - Fred killed Marcos using AK-47
+23/04/2013 15:36:51 - Fred killed Lucas using AK-47
+23/04/2013 15:37:01 - Fred killed Diego using AK-47
+23/04/2013 15:37:11 - Fred killed Maria using AK-47
+23/04/2013 15:39:33 - <WORLD> killed Nick by DROWN
+23/04/2013 15:40:22 - Match 11348965 has ended
+
+Para que fosse possível validar os itens "bônus" do desafio.
+
+A execução do projeto segue através da classe Main e o resultado do ranking é demonstrado através do log (utilizado log4j)
