@@ -1,0 +1,7 @@
+.metadata/
+Servers/
+*.project
+*.classpath
+.recommenders/
+pre-dojo/.settings/
+pre-dojo/target/
